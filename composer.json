@@ -1,5 +1,5 @@
 {
-    "name": "SW/LaravelLogger",
+    "name": "SW/Logger",
     "description": "Logging integration for Laravel",
     "keywords": ["laravel", "logging", "debug"],
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
 	    "psr-r": {
-            "SW\\LaravelLogger\\": "src"
+            "SW\\Logger\\": "src"
 	    }
     }
 }
