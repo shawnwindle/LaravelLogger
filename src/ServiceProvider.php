@@ -1,6 +1,6 @@
 <?php 
 
-namespace SW\LaravelLogger;
+namespace SW\Logger;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
