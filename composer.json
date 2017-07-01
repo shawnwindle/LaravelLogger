@@ -1,5 +1,5 @@
 {
-    "name": "SW/Logger",
+    "name": "sw/logger",
     "description": "Logging integration for Laravel",
     "keywords": ["laravel", "logging", "debug"],
     "license": "MIT",
